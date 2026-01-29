@@ -3,13 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kayque-almeida.github.io/imc-calc",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist --repo https://github.com/Kayque-Almeida/imc-calc.git"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.1.1",
